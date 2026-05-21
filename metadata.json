@@ -1,0 +1,8 @@
+{
+  "name": "Next Need | Kitchen & Home Decor",
+  "description": "Premium kitchen accessories and home decor items for your modern home.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
